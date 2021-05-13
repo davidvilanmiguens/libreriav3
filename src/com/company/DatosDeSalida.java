@@ -1,4 +1,5 @@
 package com.company;
 
-public class DatosDeSalida {
+public interface DatosDeSalida {
+    public void visualizar();
 }

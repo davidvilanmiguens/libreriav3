@@ -1,4 +1,6 @@
 package com.company;
 
-public class DatosDeEntrada {
+public interface DatosDeEntrada {
+    public void introducirDatos();
+
 }
